@@ -1,0 +1,27 @@
+_repo: Autour-des-trones-que-j-ai-vu-tomber_63161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Louise, Princess of Belgium
+    aliases:
+    - Louise, de Saxe-Cobourg
+    - Luise, Princess of Belgium
+    - Louise, von Sachsen-Coburg
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '42015'
+    url: http://www.gutenberg.org/2009/agents/42015
+    wikipedia: http://en.wikipedia.org/wiki/Princess_Louise_of_Belgium
+description: ''
+gutenberg_issued: '2020-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63161'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Autour des trônes que j'ai vu tomber
+url: http://www.gutenberg.org/ebooks/63161
